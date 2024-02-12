@@ -2,9 +2,9 @@
 
 Dit project, genaamd Sportivo Informatica, is een Java-toepassing voor het beheren en presenteren van sportgerelateerde informatie. Het doel van dit project is om een database in Java te bouwen voor Sportivo, een organisatie die jaarlijks sportweken organiseert. Deelnemers kunnen via een website informatie over cursussen krijgen en zich inschrijven voor sporten in een vastgestelde week. Voor een bepaald bedrag krijgen ze dan les in de sport, verzorgd door sportleraren die door Sportivo worden geregeld.
 
-## Screenshots
+## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/tuwinannings/JAVA_Informatica/assets/29577623/41b1b4b6-392a-4d50-8374-92bacffdc2cc)
 
 
 ## Doel
